@@ -4,6 +4,21 @@
 
 
 
+package:
+  cupertino_icons: ^1.0.2
+  supabase: ^0.3.6
+  get_it: ^7.2.0
+  get: ^4.6.5
+  get_storage: ^2.0.3
+  animated_text_kit: ^4.0.0
+  unicons: ^2.1.0
+  google_fonts: ^3.0.1
+  geocoding: ^2.0.4
+  geolocator: ^8.2.0
+  animate_do: ^2.1.0
+  flutter_spinkit: ^5.1.0
+
+
 A new Flutter project.
 
 ## Getting Started
