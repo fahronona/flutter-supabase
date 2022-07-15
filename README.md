@@ -1,8 +1,6 @@
 # learn_supabase
 
-<img width="353" alt="Screen Shot 2022-07-15 at 15 13 37" src="https://user-images.githubusercontent.com/43464944/179182360-4f9c98ed-3718-4f79-873e-a61c26f5209c.png">
-<img width="353" alt="Screen Shot 2022-07-15 at 15 13 47" src="https://user-images.githubusercontent.com/43464944/179182381-f6774734-7626-44dc-b64f-961f05398b9b.png">
-<img width="352" alt="Screen Shot 2022-07-15 at 15 14 22" src="https://user-images.githubusercontent.com/43464944/179182388-160adc28-5cd2-4c7e-9f78-4db4cefd1fd5.png">
+<img width="353" alt="Screen Shot 2022-07-15 at 15 13 37" src="https://user-images.githubusercontent.com/43464944/179182360-4f9c98ed-3718-4f79-873e-a61c26f5209c.png"> <img width="353" alt="Screen Shot 2022-07-15 at 15 13 47" src="https://user-images.githubusercontent.com/43464944/179182381-f6774734-7626-44dc-b64f-961f05398b9b.png"> <img width="352" alt="Screen Shot 2022-07-15 at 15 14 22" src="https://user-images.githubusercontent.com/43464944/179182388-160adc28-5cd2-4c7e-9f78-4db4cefd1fd5.png">
 
 
 
