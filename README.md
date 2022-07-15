@@ -4,8 +4,8 @@
 
 
 
-package:
-  cupertino_icons: ^1.0.2
+package:\n
+  cupertino_icons: ^1.0.2\n
   supabase: ^0.3.6
   get_it: ^7.2.0
   get: ^4.6.5
