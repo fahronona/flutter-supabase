@@ -4,7 +4,7 @@
 
 
 
-package:\n
+package:/n
   cupertino_icons: ^1.0.2\n
   supabase: ^0.3.6
   get_it: ^7.2.0
